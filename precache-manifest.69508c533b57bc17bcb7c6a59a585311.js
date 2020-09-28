@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d428591441174cc64abe7740e832b0dc",
+    "revision": "7710d4b3cef35d3b96822a93ed1a16ab",
     "url": "/liverpool/index.html"
   },
   {
-    "revision": "be7c303be6b5ec1530f0",
+    "revision": "4bea23dc6636c51465d9",
     "url": "/liverpool/static/css/main.cbe442cf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liverpool/static/js/2.6892d898.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be7c303be6b5ec1530f0",
-    "url": "/liverpool/static/js/main.613a6eb8.chunk.js"
+    "revision": "4bea23dc6636c51465d9",
+    "url": "/liverpool/static/js/main.b8523d97.chunk.js"
   },
   {
     "revision": "665b80ef4a133f730551",
